@@ -1,3 +1,3 @@
 #Display the output2 
 
-print ("NEw python file local")
+print ("NEw python file LOCAL")
